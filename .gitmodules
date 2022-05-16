@@ -1,0 +1,4 @@
+[submodule "roles/update"]
+	path = roles/update
+	url = ssh://git@github.com/djerun/ansible-role-update.git
+	branch = master
