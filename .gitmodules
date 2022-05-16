@@ -2,3 +2,7 @@
 	path = roles/update
 	url = ssh://git@github.com/djerun/ansible-role-update.git
 	branch = master
+[submodule "roles/netbox"]
+	path = roles/netbox
+	url = ssh://git@github.com/djerun/ansible-role-netbox.git
+	branch = dev

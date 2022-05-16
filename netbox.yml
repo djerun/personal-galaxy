@@ -1,0 +1,7 @@
+---
+- name: netbox
+  hosts: [netbox]
+  become: yes
+  become_user: root
+  roles:
+  - netbox
